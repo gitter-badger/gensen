@@ -1,5 +1,5 @@
-import standard from './standard';
+import tedori from './tedori';
 
 export default function (kingaku: number) : GensenReponse {
-  return standard(kingaku);
+  return tedori(kingaku);
 }
